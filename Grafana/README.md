@@ -1,0 +1,1 @@
+Dimension 1680 x 1050
